@@ -1,0 +1,7 @@
+p {
+    @apply text-3xl;
+}
+
+h2 {
+    @apply text-4xl! text-primary;
+}
