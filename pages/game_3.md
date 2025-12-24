@@ -1,6 +1,5 @@
 ---
-layout: center
----
+
 # Manche 3 : Thème
 <br>
 Chaque équipe doit choisir un thème puis répondre à 7 questions
@@ -11,25 +10,28 @@ Chaque équipe doit choisir un thème puis répondre à 7 questions
 ## <Link to="73">Thème 4: Mers du monde</Link>
 
 ---
-layout: center
----
+
 # Thème 1: L'année 2005
 
 
 ---
 layout: center
 ---
+
 Question 1 
 ## Quel ouragan a dévasté le sud-est des États-Unis en août 2005 ?
 a) Andrew
+
 b) Katrina
+
 c) Sandy
+
 d) Harvey
+
 <!-- Katrina -->
 
 ---
-layout: center
----
+
 Question 2
 ## Quel pape est décédé en avril 2005 ?
 a) Jean Paul 2
@@ -43,8 +45,7 @@ d) Benoît 16
 <!--  Jean Paul 2 -->
 
 ---
-layout: center
----
+
 Question 3
 ## Quelle technologie est arrivée en France en 2005 ?
 
@@ -59,8 +60,7 @@ d) Iphone
 <!-- TNT -->
 
 ---
-layout: center
----
+
 
 Question 4
 ## Parmi ces 4 séries télévisées, laquelle n’a PAS été lancée en 2005 ?
@@ -74,8 +74,7 @@ d) Kaamelott
 <!-- Lost -->
 
 ---
-layout: center
----
+
 Question 5
 ## Quel homme politique a quitté le poste de Premier Ministre de la France durant l'année 2005 ?
 a) Dominique de Villepin
@@ -89,8 +88,7 @@ d) Jean Pierre Raffarin
 <!-- Jean Pierre Raffarin -->
 
 ---
-layout: center
----
+
 Question 6
 ## Quel film a terminé en tête du Box-Office en France durant l'année 2005 ?
 a) Harry Potter et la coupe de feu
@@ -104,8 +102,7 @@ d) Astérix et Obélix mission Cléopatre
 <!-- Harry Potter et la coupe de feu -->
 
 ----
-layout: center
------
+--
 Question 7
 ## Quel joueur de tennis a remporté son premier Roland Garros en 2005 ?
 a) Novak Djokovic
@@ -120,20 +117,17 @@ d) Mariano Puerta
 
 
 ---
-layout: center
----
+
 # <Link to="44">Retour aux choix des thèmes</Link>
 
 
 
 ---
-layout: center
----
+
 # Thème 2: Littérature et cinema
 
 ---
-layout: center
----
+
 Question 1
 ## Dans le film “L’Homme au masque de fer” (1998) adapté d’Alexandre Dumas, quelle star américaine incarne le roi Louis XIV et son frère masqué ?
 a) Brad Pitt
@@ -148,8 +142,7 @@ d) Ryan Philippe
 
 
 ---
-layout: center
----
+
 Question 2
 ## Quel personnage littéraire est joué par Robert Downey Jr. dans deux films de 2009 et 2011 ?
 a) Willy Wonka
@@ -163,8 +156,7 @@ d) Van Helsing
 <!-- Sherlock Holmes -->
 
 ---
-layout: center
----
+
 Question 3
 ## Quel acteur incarne le commissaire Maigret dans trois films : “Maigret tend un piège” (1958), “Maigret et l’Affaire Saint-Fiacre” (1959) et “Maigret voit rouge” (1963) ?
 a) Jean Marais
@@ -178,8 +170,7 @@ d) Fernandel
 <!-- JEan Gabin -->
 
 ---
-layout: center
----
+
 Question 4
 ## Qui est l’auteur de science-fiction à qui l’on doit le roman Dune adapté à deux reprises au cinéma ?
 a) Pierre Boulle
@@ -193,8 +184,7 @@ d) Phillip K.Dick
 <!-- Herbert -->
 
 ---
-layout: center
----
+
 Question 5
 ## Quel écrivain américain de polar est adapté dans les films “L.A. Confidential” (1997) et “Le Dahlia Noir” (2006) ?
 a) James Lee Burke
@@ -208,8 +198,7 @@ d) James Ellroy
 <!-- James Ellroy -->
 
 ---
-layout: center
----
+
 Question 6
 ## Quelle romancière britannique est adaptée au cinéma par les films “Raisons et Sentiments” (1995) et “Orgueil et Préjugés” (2005) ?
 a) Daphné du Maurier
@@ -223,8 +212,7 @@ d) Mary Shelley
 <!-- Jane Austen -->
 
 ---
-layout: center
----
+
 Question 7
 ## Laquelle de ces oeuvres  désigne un roman de John Steinbeck adapté au cinéma pour recevoir l’Oscar du meilleur réalisateur en 1941 ?
 a) Des souris et des hommes
@@ -240,8 +228,7 @@ d) Ben Hur
 
 
 ---
-layout: center
----
+
 # <Link to="44">Retour aux choix des thèmes</Link>
 
 
@@ -250,13 +237,11 @@ layout: center
 
 
 ---
-layout: center
----
+
 # Thème 3: Gastronomie Italienne
 
 ---
-layout: center
----
+
 Question 1
 ## Dans quelle ville italienne la pizza a-t-elle été inventée ?
 a) Rome
@@ -271,10 +256,9 @@ d) Pise
 
 
 ---
-layout: center
----
+
 Question 2
-## Quelle épice est indispensable pour préparer un Risotto alla milanese ? ?
+## Quelle épice est indispensable pour préparer un Risotto alla milanese ?
 a) Muscade
 
 b) Safran
@@ -286,8 +270,7 @@ d) Paprika
 <!-- Safran -->
 
 ---
-layout: center
----
+
 Question 3
 ## Quelle viande est utilisée pour réaliser un osso buco traditionnel à Milan en Italie ?
 a) Paleron de boeuf
@@ -301,8 +284,7 @@ d) Côtes d'agneau
 <!-- Jarret de veau -->
 
 ---
-layout: center
----
+
 Question 4
 ## De quoi sont farcies les olives italiennes all’ascolana ?
 a) Fromage
@@ -316,8 +298,7 @@ d) Concentré de tomates
 <!-- Viande hachée -->
 
 ---
-layout: center
----
+
 Question 5
 ## Quel ingrédient est indispensable pour préparer un véritable tiramisu italien ?
 a) Ricotta
@@ -331,13 +312,12 @@ d) Mascarpone
 <!-- Mascarpone -->
 
 ---
-layout: center
----
+
 Question 6
-## En Italie, que désigne-t-on principalement quand on parle de stracciatella 
+## En Italie, que désigne-t-on principalement quand on parle de stracciatella ?
 a) Du chocolat
 
-b) Un dessers
+b) Un desser
 
 c) Un fromage
 
@@ -346,8 +326,7 @@ d) Un type de charcuterie
 <!-- Fromage -->
 
 ---
-layout: center
----
+
 Question 7
 ## Sous quelle forme se présente la spécialité de Livourne, nommée Cacciucco qui se compose de poissons, crustacés et coquillages ?
 
@@ -365,8 +344,7 @@ d) Un pâté
 
 
 ---
-layout: center
----
+
 # <Link to="44">Retour aux choix des thèmes</Link>
 
 
@@ -376,12 +354,10 @@ layout: center
 
 
 ---
-layout: center
----
+
 # Thème 4: Mers du monde
 ---
-layout: center
----
+
 Question 1
 ## Laquelle de ces mers est techiquement un Lac ?
 a) Mer Rouge
@@ -396,8 +372,7 @@ d) Mer Ionienne
 
 
 ---
-layout: center
----
+
 Question 2
 ## Quel pays est bordé par la mer de Corail ?
 a) Nouvelle Zélande
@@ -411,8 +386,7 @@ d) Inde
 <!-- Australie -->
 
 ---
-layout: center
----
+
 Question 3
 ## Quelle mer borde la Finlande ?
 a) Mer de Kara
@@ -426,8 +400,7 @@ d) Mer Baltique
 <!-- Baltique -->
 
 ---
-layout: center
----
+
 Question 4
 ## Quelle est la distance minimale qui sépare la France du Royaume-Uni par la Manche ?
 a) 8km
@@ -441,8 +414,7 @@ d) 94km
 <!-- 34km -->
 
 ---
-layout: center
----
+
 Question 5
 ## Au large de quel pays se situe la mer Blanche ?
 a) Russie
@@ -456,8 +428,7 @@ d) Inde
 <!-- Russie -->
 
 ---
-layout: center
----
+
 Question 6
 ## Dans quel océan se trouve la mer du Labrador ?
 a) Pacifique
@@ -471,8 +442,7 @@ d) Atlantique
 <!-- Atlantique -->
 
 ---
-layout: center
----
+
 Question 7
 ## Quelle île n’est pas située dans la mer des Caraïbes ?
 a) Aruba
@@ -486,6 +456,5 @@ d) Puerto Rico
 <!-- Sao Jorge-->
 
 ---
-layout: center
----
+
 # <Link to="44">Retour aux choix des thèmes</Link>
